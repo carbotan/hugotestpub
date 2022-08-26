@@ -1,3 +1,16 @@
++++
+draft = false
+date = 2022-08-25T07:47:28-04:00
+title = "Markdown Basics"
+description = "Basic Markdown page"
+slug = ""
+authors = []
+tags = []
+categories = []
+externalLink = ""
+series = []
++++
+
 ---
 meta:
     author: Jon Doe
